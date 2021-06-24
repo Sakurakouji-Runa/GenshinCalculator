@@ -1,6 +1,17 @@
-# GenshinCalculator
-*Forked from [GenshinImpact](https://gitee.com/hmfsh61/genshin-impact)*
+# 原神养成材料与伤害计算器/GenshinCalculator
+*Forked from [GenshinImpact](https://gitee.com/hmfsh61/genshin-impact).  原作者为 [hmfsh61](https://gitee.com/hmfsh61)，两个多月没更新了，因此鄙人狗尾续貂，创建了本仓库。*
 
-原作者为[hmfsh61](https://gitee.com/hmfsh61)，他两月没更新了，因此鄙人狗尾续貂，创建了本仓库。
+## 使用说明：  
+### 1. 如何使用养成材料计算功能：[原作者NGA帖子](https://nga.178.com/read.php?tid=23842035)  
+### 2. 如何伤害计算功能：  
+选择`伤害计算`工作表  
+在B1单元格下拉选项选择角色  
+在S20单元格输入角色攻击白值  
+在E2单元格输入武器攻击力  
+将S21单元格中的数值输入武器攻击力  
 
-使用说明：[原作者NGA帖子](https://nga.178.com/read.php?tid=23842035)
+> **tips**：  
+> 在`伤害计算`工作表中，只有米黄色背景的单元格可以输入数据  
+> 粘贴时，务必选择`粘贴选项`中的`值`  
+> 您无需输入百分号%  
+> `攻击白值`：在面板中，角色攻击力由白色数值+绿色数值构成，指白色数值  
