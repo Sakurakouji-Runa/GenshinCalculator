@@ -68,6 +68,10 @@ Sub 材料计算()
     Sheets("背包-养成道具").Range("H1") = "需求来源"
     Sheets("背包-养成道具").Range("I:I").Clear
     Sheets("背包-养成道具").Range("I1") = "来源数量"
+    Sheets("背包-养成道具").Range("J:J").Clear
+    Sheets("背包-养成道具").Range("J1") = "次数估计"
+    Sheets("背包-养成道具").Range("K:K").Clear
+    Sheets("背包-养成道具").Range("K1") = "需求树脂"
     Sheets("背包-材料").Range("C:C").Clear
     Sheets("背包-材料").Range("C1") = "需求数量"
     Sheets("背包-材料").Range("D:D").Clear
